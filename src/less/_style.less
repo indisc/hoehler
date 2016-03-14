@@ -1,0 +1,112 @@
+html{
+
+
+}
+
+body{
+
+	font-family: @neris;
+    border: 5px solid black;
+    background-color: #f0f0f0;
+}
+
+
+
+*{
+	border-box: box-sizing;
+	padding: 0;
+	margin: 0;
+}
+
+.container-fluid{
+	.plr0;
+	.mlr0;
+}
+
+//flexbox navigation
+.header-nav-logo{
+    max-width: 60%;
+    .m0a;
+    .flex;
+    .dircolumn;
+    .logo{
+        justify-content: flex-start;
+        img{
+            justify-content:center;
+        }
+        }
+    .nav{
+        justify-content: flex-end;
+
+        .nav-list-link{
+            .flex;
+            max-width: 100%;
+            flex-wrap: wrap;
+            background-color: @nav-bg;
+            padding: @20 @20;
+            a{
+                color: white;
+                .letspace;
+                border-bottom: 1px solid white;
+            }
+        }
+    }
+}
+
+
+
+//typo navigation
+.nav-list-link{
+    .flex;
+    .dircolumn;
+    li{
+        a{
+
+            font-size: @10*0.7;
+            font-weight: @black;
+            text-transform: uppercase;
+            color: black;
+            &:hover{
+                font-size: @10*1;
+                color: red;
+                transition: ease-in-out 800ms;
+            }
+        }
+    }
+}
+
+
+.navbar-toggle{
+    .icon-bar{
+        background-color: black;
+    }
+}
+
+.navbar-toggle {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+
+.navbar-toggle span.glyphicon-menu-up {
+      position: relative;
+      transition: all 500ms ease-in-out;
+        top: 20px;
+      transform: rotate(0deg);
+      color: orange;
+}
+
+
+.navbar-toggle .glyphicon-menu-up.active{
+    top: 20px;
+  transform: rotate(180deg);
+  transition: all 500ms ease-in-out;
+  color: blue;
+}
+
+
+
+
+

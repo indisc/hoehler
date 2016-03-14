@@ -1,0 +1,2 @@
+$(document).ready(function(){$(".navbar-toggle .active").on("click",function(){$(this).toggleClass("active")})}),$(function(){$(".navbar-toggle").on("click",function(){$(".nav-list ul").slideToggle({direction:"right"})})});
+//# sourceMappingURL=all.js.map

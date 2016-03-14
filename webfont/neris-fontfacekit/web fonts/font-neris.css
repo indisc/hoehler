@@ -1,0 +1,97 @@
+
+@font-face {
+    font-family: 'neristhin';
+    src: url('/Neris-Thin-webfont.eot');
+    src: url('/Neris-Thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/Neris-Thin-webfont.woff') format('woff'),
+         url('/Neris-Thin-webfont.ttf') format('truetype'),
+         url('/Neris-Thin-webfont.svg#neristhin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'neristhin_italic';
+    src: url('/Neris-ThinItalic-webfont.eot');
+    src: url('/Neris-ThinItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/Neris-ThinItalic-webfont.woff') format('woff'),
+         url('/Neris-ThinItalic-webfont.ttf') format('truetype'),
+         url('/Neris-ThinItalic-webfont.svg#neristhin_italic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'nerislight';
+    src: url('/Neris-Light-webfont.eot');
+    src: url('/Neris-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/Neris-Light-webfont.woff') format('woff'),
+         url('/Neris-Light-webfont.ttf') format('truetype'),
+         url('/Neris-Light-webfont.svg#nerislight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'nerislight_italic';
+    src: url('/Neris-LightItalic-webfont.eot');
+    src: url('/Neris-LightItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/Neris-LightItalic-webfont.woff') format('woff'),
+         url('/Neris-LightItalic-webfont.ttf') format('truetype'),
+         url('/Neris-LightItalic-webfont.svg#nerislight_italic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'nerissemibold';
+    src: url('/Neris-SemiBold-webfont.eot');
+    src: url('/Neris-SemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/Neris-SemiBold-webfont.woff') format('woff'),
+         url('/Neris-SemiBold-webfont.ttf') format('truetype'),
+         url('/Neris-SemiBold-webfont.svg#nerissemibold') format('svg');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'nerissemibold_italic';
+    src: url('/Neris-SemiBoldItalic-webfont.eot');
+    src: url('/Neris-SemiBoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/Neris-SemiBoldItalic-webfont.woff') format('woff'),
+         url('/Neris-SemiBoldItalic-webfont.ttf') format('truetype'),
+         url('/Neris-SemiBoldItalic-webfont.svg#nerissemibold_italic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+
+
+@font-face {
+    font-family: 'nerisblack';
+    src: url('/Neris-Black-webfont.eot');
+    src: url('/Neris-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/Neris-Black-webfont.woff') format('woff'),
+         url('/Neris-Black-webfont.ttf') format('truetype'),
+         url('/Neris-Black-webfont.svg#nerisblack') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'nerisblack_italic';
+    src: url('/Neris-BlackItalic-webfont.eot');
+    src: url('/Neris-BlackItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/Neris-BlackItalic-webfont.woff') format('woff'),
+         url('/Neris-BlackItalic-webfont.ttf') format('truetype'),
+         url('/Neris-BlackItalic-webfont.svg#nerisblack_italic') format('svg');
+    font-weight: 700;
+    font-style: italic;
+
+}
